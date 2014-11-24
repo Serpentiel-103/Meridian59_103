@@ -60,7 +60,7 @@ messages:
 
    GetResistanceModifiers()
    {
-      return [ [-ATCK_SPELL_ALL,5]
+      return [ [-ATCK_SPELL_ALL,5],
                [ATCK_WEAP_PIERCE,-5]
              ];
    }
